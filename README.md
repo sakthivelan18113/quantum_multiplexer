@@ -1,3 +1,5 @@
+# quantum_multiplexer
+
 GIT URL
 
     git clone https://github.com/sakthivelan18113/quantum_multiplexer.git
@@ -12,15 +14,15 @@ CREATE ENVIROMENT PYTHON
 
 COMMAND PROMOTE 
 
-    PowerShell
+PowerShell
 
-        Set-ExecutionPolicy Unrestricted -Scope Process
+	Set-ExecutionPolicy Unrestricted -Scope Process
 
-        .\venv\Scripts\activate
+	.\venv\Scripts\activate
 
-    Git Bash 
+Git Bash 
 
-        source venv/Scripts/activate
+    source venv/Scripts/activate
 
 PYTHON PIP UPGRADE 
 
@@ -37,3 +39,6 @@ Run thw multiplexer16
 Run thw multiplexer8
 
     python .\src\multiplexer8.py
+
+
+
